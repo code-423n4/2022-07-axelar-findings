@@ -1,0 +1,9 @@
+{
+  "contest": 149,
+  "handle": "tofunmi",
+  "address": "0x9af5ae89089c75f18ab01ece220763d97fd0dfce",
+  "risk": "3",
+  "title": "Attacker can steal all the wrapped tokens, ether or native currency contained in the ReceiverImplementation contract",
+  "issueId": 61,
+  "issueUrl": "https://github.com/code-423n4/2022-07-axelar-findings/issues/61"
+}
