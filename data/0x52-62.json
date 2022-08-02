@@ -1,0 +1,9 @@
+{
+  "contest": 149,
+  "handle": "0x52",
+  "address": "0x522dffc539c264a8f7e0b91102e899b33f4dabc3",
+  "risk": "3",
+  "title": "Malicious relayer can execute stale transactions by spoofing validator weights/threshold in proof",
+  "issueId": 62,
+  "issueUrl": "https://github.com/code-423n4/2022-07-axelar-findings/issues/62"
+}
