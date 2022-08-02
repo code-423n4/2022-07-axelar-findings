@@ -1,0 +1,9 @@
+{
+  "contest": 149,
+  "handle": "Ruhum",
+  "address": "0x1708bdfa333f81993a1edcfec6821a3ec563ea06",
+  "risk": "2",
+  "title": "Rogue operators can take control of operatorship and kick out honest operators",
+  "issueId": 65,
+  "issueUrl": "https://github.com/code-423n4/2022-07-axelar-findings/issues/65"
+}
