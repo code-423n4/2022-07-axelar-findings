@@ -1,0 +1,9 @@
+{
+  "contest": 149,
+  "handle": "Jujic",
+  "address": "0x6e1da38f9d9d87ce228234a570d992d4db294fa1",
+  "risk": "2",
+  "title": "Missing approve(0)",
+  "issueId": 100,
+  "issueUrl": "https://github.com/code-423n4/2022-07-axelar-findings/issues/100"
+}
