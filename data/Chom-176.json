@@ -1,0 +1,9 @@
+{
+  "contest": 149,
+  "handle": "Chom",
+  "address": "0xc4c459668fb29833d7dee997d7d347e2634c9cef",
+  "risk": "2",
+  "title": "XC20Wrapper may lost received token forever if LocalAsset(xc20).mint is reverted indefinitely",
+  "issueId": 176,
+  "issueUrl": "https://github.com/code-423n4/2022-07-axelar-findings/issues/176"
+}
