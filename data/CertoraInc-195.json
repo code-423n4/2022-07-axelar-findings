@@ -1,0 +1,9 @@
+{
+  "contest": 149,
+  "handle": "CertoraInc",
+  "address": "0x09A9af114843218a7446929b1183eBec373B2827",
+  "risk": "3",
+  "title": "Approval from non-zero to non-zero amount can lead to DoS",
+  "issueId": 195,
+  "issueUrl": "https://github.com/code-423n4/2022-07-axelar-findings/issues/195"
+}
