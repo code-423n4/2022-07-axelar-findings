@@ -1,3 +1,11 @@
+---
+sponsor: "Axelar Network"
+slug: "2022-07-axelar"
+date: "2022-10-06"
+title: "Axelar Network v2 contest"
+findings: "https://github.com/code-423n4/2022-07-axelar-findings/issues"
+contest: 149
+---
 
 # Overview
 
